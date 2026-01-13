@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors - Soft Blue -->
+    <color name="primary">#4A90D9</color>
+    <color name="primary_dark">#3A7BC8</color>
+    <color name="primary_light">#6BA3E0</color>
+    
+    <!-- Secondary Colors - Warm Orange -->
+    <color name="secondary">#FF9F43</color>
+    <color name="secondary_dark">#E8912E</color>
+    <color name="secondary_light">#FFB366</color>
+    
+    <!-- Accent Colors -->
+    <color name="accent_green">#2ECC71</color>
+    <color name="accent_red">#E74C3C</color>
+    <color name="accent_purple">#9B59B6</color>
+    <color name="accent_yellow">#F1C40F</color>
+    
+    <!-- Background Colors -->
+    <color name="background">#FAFAFA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#F5F5F5</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#1A1A2E</color>
+    <color name="text_secondary">#666666</color>
+    <color name="text_hint">#999999</color>
+    <color name="text_on_primary">#FFFFFF</color>
+    
+    <!-- Status Colors -->
+    <color name="success">#27AE60</color>
+    <color name="warning">#F39C12</color>
+    <color name="error">#E74C3C</color>
+    <color name="info">#3498DB</color>
+    
+    <!-- Streak Colors -->
+    <color name="streak_fire">#FF6B35</color>
+    
+    <!-- Card Colors -->
+    <color name="card_background">#FFFFFF</color>
+    <color name="card_border">#E0E0E0</color>
+    
+    <!-- Timer Colors -->
+    <color name="timer_study">#4A90D9</color>
+    <color name="timer_break">#2ECC71</color>
+    
+    <!-- Badge Colors -->
+    <color name="badge_bronze">#CD7F32</color>
+    <color name="badge_silver">#C0C0C0</color>
+    <color name="badge_gold">#FFD700</color>
+    
+    <!-- Splash -->
+    <color name="splash_background">#4A90D9</color>
+</resources>
